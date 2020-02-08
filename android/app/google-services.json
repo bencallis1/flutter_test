@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52195357613",
+    "firebase_url": "https://ivi-main-1566324564971.firebaseio.com",
+    "project_id": "ivi-main-1566324564971",
+    "storage_bucket": "ivi-main-1566324564971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52195357613:android:5f270081a0f56a3915e724",
+        "android_client_info": {
+          "package_name": "com.ivi.ivimain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52195357613-8bivoqj1fh58pdlc0p970pvn0t7s5na1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjqOJDlWI9k4n_tu-nS1OV_OsvmEneWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52195357613-8bivoqj1fh58pdlc0p970pvn0t7s5na1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52195357613-jnqcud7k4218e9b5j78i1met4bbkkse3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ivi.ivihouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

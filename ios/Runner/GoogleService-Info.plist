@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>52195357613-btke1d5t2tlijm9nouua7v2qmtj8pr0r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.52195357613-btke1d5t2tlijm9nouua7v2qmtj8pr0r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDf60ZpHTI9BiN-8beRijbMjcPbRhMLcM4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>52195357613</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ivihouse.ivimain</string>
+	<key>PROJECT_ID</key>
+	<string>ivi-main-1566324564971</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ivi-main-1566324564971.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:52195357613:ios:48e29ce872a8b2c315e724</string>
+	<key>DATABASE_URL</key>
+	<string>https://ivi-main-1566324564971.firebaseio.com</string>
+</dict>
+</plist>
